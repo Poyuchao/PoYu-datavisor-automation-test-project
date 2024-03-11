@@ -20,15 +20,15 @@ Follow these steps to run the test cases:
 
 First, clone the repository to your local machine using Git:
 
-```bash
 git clone https://github.com/Poyuchao/PoYu-datavisor-automation-test-project.git
-cd PoYu-datavisor-automation-test-project
+cd PoYu-datavisor-automation-test-project -->
 
-###Install Dependencies
+
+### 2. Install Dependencies
 npm install
 
-###Run Cypress Test Runner
+### 3. Run Cypress Test Runner
 npx cypress open
 
-###Run Tests in Headless Mode
+### 4. Run Tests in Headless Mode
 npx cypress run
