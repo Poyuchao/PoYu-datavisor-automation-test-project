@@ -1,10 +1,10 @@
-# PoYu-datavisor-automation-test-project
+# PoYu-bugbug-automation-test-project
 
 The purpose of this project is to automate testing of the target website https://bugbug.io/v2/. The tests are implemented using Cypress, an end-to-end testing framework, to ensure the functionality of the website meets expected outcomes.
 
-## Running Test Cases for PoYu-datavisor-automation-test-project
+## Running Test Cases for PoYu-bugbug-automation-test-project
 
-This document provides instructions on how to run the automated test cases for the PoYu-datavisor-automation-test-project.
+This document provides instructions on how to run the automated test cases for the PoYu-bugbug-automation-test-project.
 
 ## Prerequisites
 
@@ -20,8 +20,8 @@ Follow these steps to run the test cases:
 
 First, clone the repository to your local machine using Git:
 
-git clone https://github.com/Poyuchao/PoYu-datavisor-automation-test-project.git
-cd PoYu-datavisor-automation-test-project -->
+git clone https://github.com/Poyuchao/PoYu-bugbug-automation-test-project.git
+cd PoYu-bugbug-automation-test-project -->
 
 
 ### 2. Install Dependencies
